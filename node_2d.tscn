@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://0t5bbecnvoo3"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Node2D" type="Node2D" parent="."]
+
+[node name="Label" type="Label" parent="."]
+offset_right = 40.0
+offset_bottom = 23.0
+scale = Vector2(6.81432, 6.36197)
+text = "hola mundo"
