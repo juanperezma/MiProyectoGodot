@@ -5,7 +5,9 @@
 [node name="Node2D" type="Node2D" parent="."]
 
 [node name="Label" type="Label" parent="."]
-offset_right = 40.0
-offset_bottom = 23.0
+offset_left = 36.0
+offset_top = 4.0
+offset_right = 130.0
+offset_bottom = 27.0
 scale = Vector2(6.81432, 6.36197)
-text = "hola mundo"
+text = "adios mundo"
